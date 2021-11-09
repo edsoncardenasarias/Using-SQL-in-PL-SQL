@@ -1,2 +1,2 @@
 # Using-SQL-in-PL-SQL
-Demo con las diversos comandos de PL/SQL
+Demo con los diversos comandos de PL/SQL
